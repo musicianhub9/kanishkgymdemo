@@ -1,0 +1,6 @@
+{
+  "name": "ONE LIFE FITNESS - Gym Management & Member Portal",
+  "description": "Commercial gym management platform and member portal for One Life Fitness. Train hard, live strong, and track your fitness journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
